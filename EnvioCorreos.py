@@ -41,7 +41,7 @@ Agradezco su atención y quedo atento a su respuesta.
 Saludos cordiales,
 
 Nicolás Reyes
-+56 9 6361 5571
++56 9 XXXX XXXX
 {tu_email}
 '''
 
